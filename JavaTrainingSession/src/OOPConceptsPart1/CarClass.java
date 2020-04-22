@@ -10,6 +10,7 @@ public class CarClass {
 	public static void main(String[] args) {
 		
 	//new CarClass --- this is the object of the Car class	
+		//obj1, obj2 , Obj3 -- Object reference variable
 		CarClass obj1 = new CarClass();
 		CarClass obj2 = new CarClass();
 		CarClass obj3 = new CarClass();
